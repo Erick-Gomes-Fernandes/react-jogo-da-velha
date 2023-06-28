@@ -1,0 +1,13 @@
+.button {
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  background-color: #007BFF;
+  color: white;
+}
+
+.button:disabled{
+  cursor: default;
+  background-color: #61AEFF;
+}
